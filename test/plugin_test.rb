@@ -1,5 +1,4 @@
 require 'minitest/autorun'
-require 'mocha/mini_test'
 require 'fileutils'
 require 'tilt'
 require 'nesta/models'
