@@ -9,6 +9,10 @@ inbetween.
 
 Requires Nesta 0.9.12 or greater
 
+##Build Status
+
+[![wercker status](https://app.wercker.com/status/fba96ed2fa7d97805b7ee8fd15f91acc/m "wercker status")](https://app.wercker.com/project/bykey/fba96ed2fa7d97805b7ee8fd15f91acc)
+
 ## Installation
 
 Add this line to your application's Gemfile:
