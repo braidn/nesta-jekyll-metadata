@@ -4,7 +4,7 @@ module Nesta
   module Plugin
     module Jekyll
       module Metadata
-        # Your code goes here...
+        '0.0.1'
       end
     end
   end
