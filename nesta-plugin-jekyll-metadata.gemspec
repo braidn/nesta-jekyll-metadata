@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "nesta-plugin-jekyll-metadata"
   spec.version       = Nesta::Plugin::Jekyll::Metadata::VERSION
   spec.authors       = ["Braden"]
-  spec.email         = ["braden.douglass@gmail.com"]
+  spec.email         = ["me@braidn.com"]
   spec.homepage      = ""
   spec.summary       = %q{Allow Author To Use Jekyll Style Frontmatter/Metadata}
   spec.description   = <<-DES
