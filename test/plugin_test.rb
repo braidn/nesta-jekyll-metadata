@@ -3,7 +3,7 @@ require 'fileutils'
 require 'tilt'
 require 'nesta/models'
 
-require_relative '../lib/nesta/plugin/jekyll/metadata/init'
+require_relative '../lib/nesta-plugin-jekyll-metadata/init'
 
 describe Nesta::FileModel do
 
